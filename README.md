@@ -1,4 +1,4 @@
- Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
+<img width="812" height="686" alt="image" src="https://github.com/user-attachments/assets/f3c02bc8-9b77-4340-8349-d737d3fd743d" /><img width="665" height="619" alt="image" src="https://github.com/user-attachments/assets/d6c280f9-f49d-471d-9fe1-24462b2f377f" /> Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
  Системийн хүснэгтүүд
 gym_db өгөгдлийн сан нь дараах үндсэн хүснэгтүүдээс бүрдэнэ:
 - Хүснэгт 1 – members (Гишүүд)
@@ -95,12 +95,24 @@ FROM Employees;
 - GRANT
 - FLUSH PRIVILEGES
 - SHOW GRANTS
-  <img width="698" height="651" alt="proof1" src="https://github.com/user-attachments/assets/ede5e557-2012-48d7-9a02-2e4190755a70" />
-  
-<img width="698" height="651" alt="proof2" src="https://github.com/user-attachments/assets/b5f28499-1920-4939-b095-63213b6060f4" />
+
+<img width="908" height="741" alt="proof1" src="https://github.com/user-attachments/assets/ea5d0bb0-a770-4856-8898-a0b29c61d0ea" />
 
 
-<img width="698" height="651" alt="proof3" src="https://github.com/user-attachments/assets/a79f44bf-fba2-4ed8-9ff3-7859dac92cb9" />
+<img width="718" height="625" alt="proof2" src="https://github.com/user-attachments/assets/0ca44874-a07e-4d57-a495-32bcf67e5401" />
+
+
+<img width="684" height="599" alt="proof3" src="https://github.com/user-attachments/assets/79b1876a-2418-4757-bee1-b638f8c6d32f" />
+
+
+
+<img width="684" height="599" alt="proof4" src="https://github.com/user-attachments/assets/bfd68072-b6f4-4d76-8b30-f5858f53f4f0" />
+
+
+
+<img width="689" height="625" alt="proof5" src="https://github.com/user-attachments/assets/a4f6a126-40db-4411-bbbf-4bc75e3ed838" />
+
+
 
 Ангараг-Од
 B232270084
