@@ -1,5 +1,5 @@
-🟦 Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
-🌟 Системийн хүснэгтүүд
+ Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
+ Системийн хүснэгтүүд
 gym_db өгөгдлийн сан нь дараах үндсэн хүснэгтүүдээс бүрдэнэ:
 - Хүснэгт 1 – members (Гишүүд)
 - Хүснэгт 2 – trainers (Дасгалжуулагчид)
@@ -7,13 +7,13 @@ gym_db өгөгдлийн сан нь дараах үндсэн хүснэгтү
 - Хүснэгт 4 – attendance (Ирц)
 Эдгээр хүснэгтүүд нь Foreign Key ашиглан харилцан холбоотой.
 
-⚙️ Ашиглах заавар
+ Ашиглах заавар
 Өгөгдлийн сантай ажиллах дараалал:
 - MySQL серверийг суулгаж, gym_db өгөгдлийн санг үүсгэнэ
  файлыг ажиллуулж хүснэгтүүдийг үүсгэнэ
 - Жишээ өгөгдлийг оруулж, хүснэгтүүдийн бүтцийг шалгана
 
-📁 Файлын бүтэц
+ Файлын бүтэц
 project/
 ├── mysqlScript.sql
 
@@ -23,24 +23,24 @@ project/
 - mysqlScipt.sql: хүснэгтүүдийг үүсгэх болон жишээ өгөгдөл оруулах SQL скрипт
 - README.md: тайлбар
 
-👤 Хэрэглэгч ба эрхүүд
+ Хэрэглэгч ба эрхүүд
 - admin_user: бүх эрхтэй (CREATE, INSERT, UPDATE, DELETE, SELECT)
 - report_user: зөвхөн SELECT эрхтэй
 
-🗂️ Нөөцлөх ба сэргээх
+ Нөөцлөх ба сэргээх
 MySQL CLI ашиглан өгөгдлийн санг нөөцлөх болон сэргээх боломжтой:
 $ mysqldump -u root -p gym_db > gym_db_backup.sql
 $ mysql -u root -p gym_db < gym_db_backup.sql
 
 
 
-💻 MySQL командын жишээ
+ MySQL командын жишээ
 $ mysql -u root -p
 mysql> source gym_db_v1.sql;
 
 
 
-📦 Төслийн мэдээлэл
+ Төслийн мэдээлэл
 - GitHub репозиторийн холбоос: https://github.com/gym_db_project
 - Төслийн тайлбар: Спорт заалын удирдлагын систем – гишүүд, дасгалжуулагчид, захиалга болон ирцийн мэдээллийг удирдах
 
@@ -96,3 +96,12 @@ FROM Employees;
 - GRANT
 - FLUSH PRIVILEGES
 - SHOW GRANTS
+  <img width="698" height="651" alt="proof1" src="https://github.com/user-attachments/assets/ede5e557-2012-48d7-9a02-2e4190755a70" />
+  
+<img width="698" height="651" alt="proof2" src="https://github.com/user-attachments/assets/b5f28499-1920-4939-b095-63213b6060f4" />
+
+
+<img width="698" height="651" alt="proof3" src="https://github.com/user-attachments/assets/a79f44bf-fba2-4ed8-9ff3-7859dac92cb9" />
+
+Ангараг-Од
+B232270084
