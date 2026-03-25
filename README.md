@@ -1,4 +1,4 @@
-<img width="812" height="686" alt="image" src="https://github.com/user-attachments/assets/f3c02bc8-9b77-4340-8349-d737d3fd743d" /><img width="665" height="619" alt="image" src="https://github.com/user-attachments/assets/d6c280f9-f49d-471d-9fe1-24462b2f377f" /> Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
+ Өгөгдлийн сангийн төсөл – Спорт заалын удирдлагын систем
  Системийн хүснэгтүүд
 gym_db өгөгдлийн сан нь дараах үндсэн хүснэгтүүдээс бүрдэнэ:
 - Хүснэгт 1 – members (Гишүүд)
